@@ -1,0 +1,7 @@
+img:hover{						/*CSS block that defines border radius, width and height and also animates with transform and transition */
+	border-radius: 20px;
+	width: 500px;
+	height:400px;
+    transition: width 2s;
+    transform: rotate(90deg);
+}
